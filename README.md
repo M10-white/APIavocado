@@ -24,13 +24,13 @@ Le projet est organisé en deux parties principales :
 
 ---
 
-Installation
-Étape 1 : Cloner le dépôt
+## Installation
+### Étape 1 : Cloner le dépôt
 ```bash
 git clone https://github.com/M10-white/APIavocado.git
 ```
 
-Étape 2 : Configurer le back-end (APIavocadoBACK)
+ ### Étape 2 : Configurer le back-end (APIavocadoBACK)
 Accédez au répertoire du back-end :
 ```bash
 cd src/back
@@ -51,7 +51,7 @@ L'API sera disponible par défaut à :
 http://127.0.0.1:5000/
 ```
 
-Étape 3 : Configurer le front-end (APIavocadoFRONT)
+### Étape 3 : Configurer le front-end (APIavocadoFRONT)
 Accédez au répertoire du front-end :
 ```bash
 cd src/front
@@ -72,7 +72,7 @@ L'application sera disponible par défaut à :
 http://localhost:8080/
 ```
 
-Utilisation
+## Utilisation
 
 Accéder au Front-End : Ouvrez http://localhost:8080/ dans votre navigateur pour interagir avec l'interface utilisateur.
 
