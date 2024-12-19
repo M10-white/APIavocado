@@ -5,10 +5,10 @@
 **APIavocado** est un projet qui permet de prédire les prix des avocats en combinant une API Flask (back-end) et une interface utilisateur Vue.js (front-end).  
 Le projet est organisé en deux parties principales : 
 
-- **APIavocadoFRONT** : Interface utilisateur pour interagir avec l'API et soumettre des données.
+- **APIavocadoFRONT** : Interface utilisateur pour interagir avec l'API et soumettre des données.\
  -> https://github.com/M10-white/APIavocadoBACK.git
 
-- **APIavocadoBACK** : Serveur Flask pour gérer les requêtes, traiter les données et renvoyer les résultats.
+- **APIavocadoBACK** : Serveur Flask pour gérer les requêtes, traiter les données et renvoyer les résultats.\
  -> https://github.com/M10-white/APIavocadoFRONT.git
 
 ---
