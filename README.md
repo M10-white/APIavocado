@@ -74,8 +74,8 @@ http://localhost:8080/
 
 ## Utilisation
 
-Accéder au Front-End :\ 
+Accéder au Front-End : \ 
 Ouvrez http://localhost:8080/ dans votre navigateur pour interagir avec l'interface utilisateur.
 
-Accéder au Back-End :\ 
+Accéder au Back-End : \ 
 Ouvrez http://127.0.0.1:5000/ pour consulter directement les routes disponibles, comme l'affichage du fichier CSV.
