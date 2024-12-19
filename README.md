@@ -27,7 +27,7 @@ Le projet est organisé en deux parties principales :
 Installation
 Étape 1 : Cloner le dépôt
 ```bash
-git clone https://github.com/<votre-utilisateur-github>/APIavocado.git
+git clone https://github.com/M10-white/APIavocado.git
 ```
 
 Étape 2 : Configurer le back-end (APIavocadoBACK)
