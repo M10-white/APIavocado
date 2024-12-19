@@ -6,10 +6,10 @@
 Le projet est organisé en deux parties principales : 
 
 - **APIavocadoFRONT** : Interface utilisateur pour interagir avec l'API et soumettre des données.\
- -> https://github.com/M10-white/APIavocadoBACK.git
+ -> https://github.com/M10-white/APIavocadoFRONT.git
 
 - **APIavocadoBACK** : Serveur Flask pour gérer les requêtes, traiter les données et renvoyer les résultats.\
- -> https://github.com/M10-white/APIavocadoFRONT.git
+ -> https://github.com/M10-white/APIavocadoBACK.git
 
 ---
 
