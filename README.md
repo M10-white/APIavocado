@@ -76,7 +76,7 @@ http://localhost:8080/
 
 ### Accéder au Front-End :
 
-Ouvrez http://localhost:8080/ dans votre navigateur pour interagir avec l'interface utilisateur.
+Ouvrez http://localhost:8080/ dans votre navigateur pour interagir avec l'API.
 
 ### Accéder au Back-End : 
 
