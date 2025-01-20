@@ -1,6 +1,6 @@
 [submodule "src/back"]
 	path = src/back
-	url = git@github.com:M10-white/APIavocadoBACK.git
+	url = https://github.com/M10-white/APIavocadoBACK.git
 [submodule "src/front"]
 	path = src/front
 	url = git@github.com:M10-white/APIavocadoFRONT.git
